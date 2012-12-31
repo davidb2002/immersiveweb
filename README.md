@@ -19,3 +19,12 @@ WHAT WE NEED
 - A code structure
 - A code standard practice
 (more will come once these are defined)
+
+CORE FEATURES
+- multi-user worlds
+- realtime chat
+- avatars
+- items/object
+- item/object manipulation
+- account control
+- easy(ish) CMS to control worlds for the 'non-techies'
